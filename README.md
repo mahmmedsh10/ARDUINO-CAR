@@ -8,4 +8,8 @@ Components:
 6.Four DC motors
 7.bluetooth module hc-05
 
+board (shield) L293D:
+It can be installed directly on the Arduino Uno and Mega .
+the board can control four DC motors.
+
 
